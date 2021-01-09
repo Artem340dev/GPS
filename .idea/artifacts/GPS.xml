@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GPS">
+    <output-path>$USER_HOME$/server/plugins</output-path>
+    <root id="archive" name="GPS.jar">
+      <element id="module-output" name="GPS" />
+      <element id="dir-copy" path="$PROJECT_DIR$/resources" />
+    </root>
+  </artifact>
+</component>

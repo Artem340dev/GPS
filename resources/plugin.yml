@@ -1,0 +1,6 @@
+name: GPS
+main: gps.main.SpigotPlugin
+version: 0.1
+commands:
+  gps:
+    description: GPS-слежка
